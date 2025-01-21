@@ -6,7 +6,7 @@ This project is a simple yet elegant photography services website built using HT
 
 - **Navigation Bar**: Includes links to Home, About, and Contact sections. It also contains a search feature.
 - **Main Banner**: Displays a large image of nature, enhancing the visual appeal of the page.
-- **Photography Paragraph**: Includes an image of the camera and a brief introduction.
+- **Photography Paragraph and Image**: Includes an image of the camera and a brief introduction.
 - **Registration Form**: Users can register for a free photoshoot, with form validation for essential fields like First Name, Last Name, Email, and Password.
 - **Data Table**: A table that displays user data with different statuses, such as "Registered" or "Missing Profile".
 - **Footer**: Contains links to various photography types, the gallery, and contact details.
@@ -15,7 +15,6 @@ This project is a simple yet elegant photography services website built using HT
 
 - **HTML**: Markup for the website content.
 - **CSS (Bootstrap 5)**: Used for styling and responsive design.
-- **JavaScript (Bootstrap Bundle)**: Used for interactivity and responsive elements.
 
 ## Project Structure
 
